@@ -25,3 +25,5 @@
 - readSif is refactored
 - MenuSideBar.js has a lot of repeat styling code
 - TODO: Order React book and learn more about dummy components 
+#### Outlook
+- Okay: need to do more research into different topics above 
