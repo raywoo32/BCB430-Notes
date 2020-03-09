@@ -1,0 +1,11 @@
+DONE:
+1. Style selected targets (need to add colour) 
+2. Looked at bug for selectbox
+
+TODO:
+1. Add colour to find select targets
+2. Add tooltips and descriptions
+3. Add onHover names to layout 
+4. Fix the bug about slow loading networks and searchbox
+5. Fix motif slider (bruno's styling) --> also fix the starts at 0, does not display the first motif --> also name only certian motifs and write descr
+6. Add js docs for everything! 
