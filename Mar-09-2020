@@ -9,3 +9,5 @@ TODO:
 4. Fix the bug about slow loading networks and searchbox
 5. Fix motif slider (bruno's styling) --> also fix the starts at 0, does not display the first motif --> also name only certian motifs and write descr
 6. Add js docs for everything! 
+7. Style the select grns 
+8. add tag clicks and tags display for the grn
